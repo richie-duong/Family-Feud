@@ -17,12 +17,17 @@ export const WinnerPage = () => {
         getWinner();
     }, [])
 
+    const playMusic =()=>{
+        music.play()
+    }
+
     return (
         <>
             <Navbar2 />
             <div className='team_names'>
                 {data.completeCount >= 15 ?
                     <>
+                    {playMusic()}
                     <ConfettiExplosion particleCount={1000} particleSize={15} duration={5000}/>
                         {data.scores[0] > data.scores[1] ? <h1>Team {data.teamNames[0]} WINS!</h1>
                             : data.scores[1] > data.scores[0] ? <h1>Team {data.teamNames[1]} WINS!</h1>
