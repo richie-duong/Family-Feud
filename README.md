@@ -9,7 +9,7 @@ As it currently stands, this project is functional, but contains a few exception
 
 Furthermore, the application is not fully feature complete, as it lacks functionalities that makes the game replayable, customizable, and user-friendly. The section below elaborates on this.
 
-## Improvements in Progress
+## Improvements in Progress (as of April 13, 2023)
 Below is a bucket list of improvements / functionalities I would like to add onto this project:
 * Utilize exception handling to improve the performance of the web application.
 * Make the application's design more responsive.
