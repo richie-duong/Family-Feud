@@ -27,3 +27,6 @@ Below is a complete list of libraries used within this project:
 * [Express.js](https://expressjs.com/) - Node.js web application framework, providing a variety of feature for building this web app. So far, it is primarily used for database.
 * [MongoDB Node Driver](https://www.mongodb.com/docs/drivers/node/current/) - Driver allowing the web application to work with MongoDB in JavaScript.
 * [AXIOS](https://axios-http.com/docs/intro) - Promised-based HTTP client for JavaScript / Node.js, allowing for data transfer & communications with JSON format between the frontend and backend of the web application.
+
+## How to Run / Use the Project
+At the moment, this project has not yet been deployed since it is still in development. However, if you're interested in running this application, you can follow the steps below:
