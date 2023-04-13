@@ -26,3 +26,4 @@ Below is a complete list of libraries used within this project:
 * [Node.js](https://nodejs.org/en/about) - Back-end JavaScript runtime environment
 * [Express.js](https://expressjs.com/) - Node.js web application framework, providing a variety of feature for building this web app. So far, it is primarily used for database.
 * [MongoDB Node Driver](https://www.mongodb.com/docs/drivers/node/current/) - Driver allowing the web application to work with MongoDB in JavaScript.
+* [AXIOS](https://axios-http.com/docs/intro) - Promised-based HTTP client for JavaScript / Node.js, allowing for data transfer & communications with JSON format between the frontend and backend of the web application.
