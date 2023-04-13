@@ -30,3 +30,7 @@ Below is a complete list of libraries used within this project:
 
 ## How to Run / Use the Project
 At the moment, this project has not yet been deployed since it is still in development. However, if you're interested in running this application, you can follow the steps below:
+1. Download the project / clone this repository onto Visual Studio Code or IDE of your choice.
+2. After cloning the repository, navigate over to the frontend directory using ### `cd frontend` and run the ### `npm start` command in the IDE's terminal to determine what dependencies need to be installed for the project to run. Run ### `npm install` with the proceeding module name to install the required dependencies.
+3. Navigate over to the backend directory and over to the ### `src` folder from the terminal using the ### `cd ../backend/src` command, and run the ### `node server.js` command to see if there are any missing dependencies that need to be installed in the backend. If so, proceed to run the ### `npm install` to install those missing dependences just as it was done in the frontend directory.
+4. Once all dependencies are added to the project, make sure to run the ### `node server.js` command first to start the application's server. In a separate terminal, navigate to the front end and run the ### `npm start` command. Ensure that both terminals are running simultaneously. In an event that the browser does not open, simply open your internet browser and type in ### `https://localhost:3000`and the web application should work from there!
