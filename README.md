@@ -1,6 +1,6 @@
 # Family-Feud
 
-Demonstration link is coming soon!
+Demonstration link is coming soon! Once I deploy the application, this section will be updated.
 
 ## Description
 This project is a trivia game inspired by the American television game show of the same name, where two teams compete to name the most popular answers to questions that were retrieved from surveys for one of the two teams to be declared winner. The web applications demonstrates my knowledge in the MERN stack (MongoDB, Express, React.js, and Node.js) architecture. All survey questions, answers, team names, and team scores are stored in, retrieved from, and/or updated to MongoDB from the backend files.
