@@ -10,9 +10,19 @@ As it currently stands, this project is functional, but contains a few exception
 Furthermore, the application is not fully feature complete, as it lacks functionalities that makes the game replayable, customizable, and user-friendly. The section below elaborates on this.
 
 ## Improvements in Progress
+Below is a bucket list of improvements / functionalities I would like to add onto this project:
+* Utilize exception handling to improve the performance of the web application.
+* Make the application's design more responsive.
+* Code clceaning. Specifically, separate survey answers into child components to make the code more organized and potentially improve the performance of the application.
+* A revision on the the logic of UI/UX, to make the game more user friendly.
+* Addition of a rules page to be displayed before the game begins, enhancing the user's understanding on how the application is meant to function.
+* A feature for users to edit the questions and answers of the web application, improving on the game's replayability.
+* A reset button to reset the game to its original state for replayability.
+* The addition of Firebase, allowing user authentication and account to sign up and have their own custom Family Feud game.
 
-
-## Libraries Used
+## Framework / Libraries Used
 Below is a complete list of libraries used within this project:
-* [React-Icons](https://react-icons.github.io/react-icons/) - Library that allows for inclusion of popular icons utilizing ES6 imports to be used within React.js project. This was used heavily in the 'Skills' section of this project.
-* [React-Bootstrap](https://react-bootstrap.github.io/getting-started/introduction) - Used for styling buttons.
+* [React.js](https://react.dev/) - JavaScript framework responsible for creating interactive user interfaces for this web application.
+* [Node.js](https://nodejs.org/en/about) - Back-end JavaScript runtime environment
+* [Express.js](https://expressjs.com/) - Node.js web application framework, providing a variety of feature for building this web app. So far, it is primarily used for database.
+* [MongoDB Node Driver](https://www.mongodb.com/docs/drivers/node/current/) - Driver allowing the web application to work with MongoDB in JavaScript.
