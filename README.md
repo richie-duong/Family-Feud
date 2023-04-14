@@ -1,5 +1,7 @@
 # Family-Feud
 
+![familyfeud](https://user-images.githubusercontent.com/105457925/231933570-c3d514d3-392c-4251-afc9-ae2b924db7e1.png)
+
 Demonstration link is coming soon! Once I deploy the application, this section will be updated.
 
 ## Description
